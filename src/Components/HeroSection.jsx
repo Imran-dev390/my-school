@@ -3,7 +3,7 @@ import StatsSection from './StatsSection';
 
 const HeroSection = () => {
   return (
-    <div className="bg-white px-4 lg:px-10   min-h-screen">
+    <div className="bg-white p-10 lg:px-10   min-h-screen">
       <div className="flex flex-col lg:flex-row items-center justify-between gap-10">
         {/* Left Content */}
         <div className="lg:w-1/2 px-4 text-center lg:text-left">
