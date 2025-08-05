@@ -19,7 +19,7 @@ import FaqSection from './Components/FaqSection';
 import Footer from './Components/Footer';
 function App() {
   return (
-    <div className='main min-h-screen w-full'>
+    <div className='main min-h-screen overflow-hidden'>
 <Navbar/>
 <HeroSection/>
 <ZeroSection/>
